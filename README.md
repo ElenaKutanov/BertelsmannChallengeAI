@@ -14,11 +14,8 @@ I would like to encourage @Elena Greblova and @Aleksandra Deis to keep going! #6
 ---------------------------------
 
 19.12.2019 Day 3.
-- Lesson 6.2:
-
--- Read about WaveNet
-
--- Read about CNN for text classification
-
+Lesson 6.2:
+- Read about WaveNet
+- Read about CNN for text classification :heavy_check_mark:
 I would like to encourage @Elena Greblova and @Aleksandra Deis to keep going! #60_days_udacity.
 ---------------------------------
