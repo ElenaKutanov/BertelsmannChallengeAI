@@ -19,3 +19,8 @@ Lesson 6.2:
 - Read about CNN for text classification :heavy_check_mark:
 I would like to encourage @Elena Greblova and @Aleksandra Deis to keep going! #60_days_udacity.
 ---------------------------------
+
+29.12.2019 Day 4.
+- Lesson 6.3-6.8  completed :heavy_check_mark:
+I would like to encourage @Elena Greblova and @Aleksandra Deis to keep going! #60_days_udacity.
+---------------------------------
