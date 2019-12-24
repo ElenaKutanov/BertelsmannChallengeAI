@@ -40,3 +40,8 @@ I would like to encourage @Elena Greblova and @Aleksandra Deis to keep going! #6
 - Lesson 6.22-6.23, 6.25-6.26 was done earlier :heavy_check_mark:
 I would like to encourage @Elena Greblova and @Aleksandra Deis to keep going! #60_days_udacity.
 ---------------------------------
+
+24.12.2019 Day 8.
+- Lesson 6.27-6.31 completed :heavy_check_mark:
+I would like to encourage @Elena Greblova, @Aleksandra Deis and @Samuela Anastasi to keep going! #60_days_udacity.
+---------------------------------
