@@ -67,3 +67,9 @@ I would like to encourage @Elena Greblova, @Aleksandra Deis and @Samuela Anastas
 - Lesson 7.8 in progress
 I would like to encourage @Elena Greblova, @Aleksandra Deis and @Samuela Anastasi to keep going! #60_days_udacity.
 ---------------------------------
+
+29.12.2019 Day 13.
+- Lesson 7.9-7.12, 8.1, 8.11 completed :heavy_check_mark:
+- Lesson 8.2-8.10 was done earlier :heavy_check_mark:
+I would like to encourage @Elena Greblova, @Aleksandra Deis and @Samuela Anastasi to keep going! #60_days_udacity.
+---------------------------------
