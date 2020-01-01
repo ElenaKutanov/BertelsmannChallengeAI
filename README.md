@@ -75,12 +75,17 @@ I would like to encourage @Elena Greblova, @Aleksandra Deis and @Samuela Anastas
 ---------------------------------
 
 30.12.2019 Day 14.
-- Lesson 8.12-813 completed :heavy_check_mark:
+- Lesson 8.12-8.13 completed :heavy_check_mark:
 - Studying operations on word vectors
 I would like to encourage @Elena Greblova, @Aleksandra Deis and @Samuela Anastasi to keep going! #60_days_udacity.
 ---------------------------------
 
 31.12.2019 Day 15.
 - Studying trigger word detection
+I would like to encourage @Elena Greblova, @Aleksandra Deis and @Samuela Anastasi to keep going! #60_days_udacity.
+---------------------------------
+
+01.01.2020 Day 16.
+- Lesson 8.14-8.17 completed :heavy_check_mark:
 I would like to encourage @Elena Greblova, @Aleksandra Deis and @Samuela Anastasi to keep going! #60_days_udacity.
 ---------------------------------
