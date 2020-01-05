@@ -106,6 +106,6 @@ I would like to encourage @Elena Greblova, @Aleksandra Deis and @Samuela Anastas
 ---------------------------------
 
 05.01.2020 Day 20.
-- Lesson 9.4-9.7 completed :heavy_check_mark:
+- Lesson 9.5-9.7 completed :heavy_check_mark:
 I would like to encourage @Elena Greblova, @Aleksandra Deis and @Samuela Anastasi to keep going! #60_days_udacity.
 ---------------------------------
