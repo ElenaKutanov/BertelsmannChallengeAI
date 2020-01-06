@@ -109,3 +109,9 @@ I would like to encourage @Elena Greblova, @Aleksandra Deis and @Samuela Anastas
 - Lesson 9.5-9.7 completed :heavy_check_mark:
 I would like to encourage @Elena Greblova, @Aleksandra Deis and @Samuela Anastasi to keep going! #60_days_udacity.
 ---------------------------------
+
+06.01.2020 Day 21.
+- Reading "Show and Tell: A Neural Image Caption Generator" https://arxiv.org/pdf/1411.4555.pdf :heavy_check_mark:
+- Reading "Show, Attend and Tell: Neural Image Caption. Generation with Visual Attention" https://arxiv.org/pdf/1502.03044.pdf :heavy_check_mark:
+I would like to encourage @Elena Greblova, @Aleksandra Deis and @Samuela Anastasi to keep going! #60_days_udacity.
+---------------------------------
