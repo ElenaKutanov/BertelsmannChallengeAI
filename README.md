@@ -116,8 +116,12 @@ I would like to encourage @Elena Greblova, @Aleksandra Deis and @Samuela Anastas
 I would like to encourage @Elena Greblova, @Aleksandra Deis and @Samuela Anastasi to keep going! #60_days_udacity.
 ---------------------------------
 
-
 07.01.2020 Day 22.
 - Working with "Image Captioning" project :heavy_check_mark:
+I would like to encourage @Elena Greblova, @Aleksandra Deis and @Samuela Anastasi to keep going! #60_days_udacity.
+---------------------------------
+
+08.01.2020 Day 23.
+- Lesson 9.8-9.9 completed :heavy_check_mark:
 I would like to encourage @Elena Greblova, @Aleksandra Deis and @Samuela Anastasi to keep going! #60_days_udacity.
 ---------------------------------
