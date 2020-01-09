@@ -125,3 +125,8 @@ I would like to encourage @Elena Greblova, @Aleksandra Deis and @Samuela Anastas
 - Lesson 9.8-9.9 completed :heavy_check_mark:
 I would like to encourage @Elena Greblova, @Aleksandra Deis and @Samuela Anastasi to keep going! #60_days_udacity.
 ---------------------------------
+
+09.01.2020 Day 24.
+- Lesson 9.10-9.12 completed :heavy_check_mark:
+I would like to encourage @Elena Greblova, @Aleksandra Deis and @Samuela Anastasi to keep going! #60_days_udacity.
+---------------------------------
