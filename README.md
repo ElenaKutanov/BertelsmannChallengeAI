@@ -152,6 +152,11 @@ I would like to encourage @Elena Greblova, @Aleksandra Deis and @Samuela Anastas
 ---------------------------------
 
 14.01.2020 Day 29.
-- Learned more about OpenVINO Model Optimizer and Optimization Techniques :heavy_check_mark:
+- Learned about OpenVINO Model Optimizer and Optimization Techniques :heavy_check_mark:
+I would like to encourage @Elena Greblova, @Aleksandra Deis and @Samuela Anastasi to keep going! #60_days_udacity.
+---------------------------------
+
+15.01.2020 Day 30.
+- Learned about Inexact Move Function and Limit Distribution :heavy_check_mark:
 I would like to encourage @Elena Greblova, @Aleksandra Deis and @Samuela Anastasi to keep going! #60_days_udacity.
 ---------------------------------
