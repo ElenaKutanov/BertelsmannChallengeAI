@@ -172,7 +172,11 @@ I would like to encourage @Elena Greblova, @Aleksandra Deis and @Samuela Anastas
 ---------------------------------
 
 18.01.2020 Day 33.
-- Practiced 2D Histogram Filter :heavy_check_mark:
+- Practiced 2D Histogram Filter
 I would like to encourage @Elena Greblova, @Aleksandra Deis and @Samuela Anastasi to keep going! #60_days_udacity.
 ---------------------------------
 
+19.01.2020 Day 34.
+- Practiced Python Debugger (pdb) :heavy_check_mark:
+I would like to encourage @Elena Greblova, @Aleksandra Deis and @Samuela Anastasi to keep going! #60_days_udacity.
+---------------------------------
