@@ -195,3 +195,8 @@ I would like to encourage @Elena Greblova, @Aleksandra Deis and @Samuela Anastas
 - Practiced 1D Kalman Filter :heavy_check_mark:
 I would like to encourage @Elena Greblova, @Aleksandra Deis and @Samuela Anastasi to keep going! #60_days_udacity.
 ---------------------------------
+
+24.01.2020 Day 38.
+- Practiced predicting state (Object Tracking and Localization) :heavy_check_mark:
+I would like to encourage @Elena Greblova, @Aleksandra Deis and @Samuela Anastasi to keep going! #60_days_udacity.
+---------------------------------
