@@ -220,3 +220,8 @@ I would like to encourage @Elena Greblova, @Aleksandra Deis and @Samuela Anastas
 - Practiced representing state with matrices (Kalman filters) :heavy_check_mark:
 I would like to encourage @Elena Greblova, @Aleksandra Deis and @Samuela Anastasi to keep going! #60_days_udacity.
 ---------------------------------
+
+29.01.2020 Day 43.
+- Practiced coding vectors :heavy_check_mark:
+I would like to encourage @Elena Greblova, @Aleksandra Deis and @Samuela Anastasi to keep going! #60_days_udacity.
+---------------------------------
