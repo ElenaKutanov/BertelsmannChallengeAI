@@ -240,3 +240,8 @@ I would like to encourage @Elena Greblova, @Aleksandra Deis and @Samuela Anastas
 - Practiced coding matrices, day 3 :heavy_check_mark:
 I would like to encourage @Elena Greblova, @Aleksandra Deis and @Samuela Anastasi to keep going! #60_days_udacity.
 ---------------------------------
+
+02.02.2020 Day 47.
+- Simultaneous Localization and Mapping in progress
+I would like to encourage @Elena Greblova, @Aleksandra Deis and @Samuela Anastasi to keep going! #60_days_udacity.
+---------------------------------
