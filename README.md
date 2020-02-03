@@ -247,6 +247,6 @@ I would like to encourage @Elena Greblova, @Aleksandra Deis and @Samuela Anastas
 ---------------------------------
 
 03.02.2020 Day 48.
-- Implement Graph SLAM
+- Implementing Graph SLAM
 I would like to encourage @Elena Greblova, @Aleksandra Deis and @Samuela Anastasi to keep going! #60_days_udacity.
 ---------------------------------
