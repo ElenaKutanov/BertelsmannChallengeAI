@@ -245,3 +245,8 @@ I would like to encourage @Elena Greblova, @Aleksandra Deis and @Samuela Anastas
 - Simultaneous Localization and Mapping in progress
 I would like to encourage @Elena Greblova, @Aleksandra Deis and @Samuela Anastasi to keep going! #60_days_udacity.
 ---------------------------------
+
+03.02.2020 Day 48.
+- Implement Graph SLAM
+I would like to encourage @Elena Greblova, @Aleksandra Deis and @Samuela Anastasi to keep going! #60_days_udacity.
+---------------------------------
