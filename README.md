@@ -282,3 +282,9 @@ I would like to encourage @Elena Greblova, @Aleksandra Deis and @Samuela Anastas
 - Learned more about vehicle motion and controls (Acceleration), day 3
 I would like to encourage @Elena Greblova, @Aleksandra Deis and @Samuela Anastasi to keep going! #60_days_udacity.
 ---------------------------------
+
+11.02.2020 Day 55.
+- Practiced RNN
+- Reviewed "Character-Level LSTM in PyTorch"
+I would like to encourage @Elena Greblova, @Aleksandra Deis and @Samuela Anastasi to keep going! #60_days_udacity.
+---------------------------------
