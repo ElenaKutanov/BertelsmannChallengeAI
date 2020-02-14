@@ -298,3 +298,9 @@ I would like to encourage @Elena Greblova, @Aleksandra Deis and @Samuela Anastas
 - Reviewed the course and checked quizzes in lessons 1 - 6
 I would like to encourage @Elena Greblova, @Aleksandra Deis and @Samuela Anastasi to keep going! #60_days_udacity.
 ---------------------------------
+
+14.02.2020 Day 58.
+- Reviewed the course and checked quizzes in lessons 7 - 11
+- Practiced Char-RNN
+I would like to encourage @Elena Greblova, @Aleksandra Deis and @Samuela Anastasi to keep going! #60_days_udacity.
+---------------------------------
