@@ -304,3 +304,9 @@ I would like to encourage @Elena Greblova, @Aleksandra Deis and @Samuela Anastas
 - Practiced Char-RNN
 I would like to encourage @Elena Greblova, @Aleksandra Deis and @Samuela Anastasi to keep going! #60_days_udacity.
 ---------------------------------
+
+15.02.2020 Day 59.
+- Reviewed lesson 7 "Style Transfer"
+- Read https://arxiv.org/pdf/1910.03723.pdf
+I would like to encourage @Elena Greblova, @Aleksandra Deis and @Samuela Anastasi to keep going! #60_days_udacity.
+---------------------------------
